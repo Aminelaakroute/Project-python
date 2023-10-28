@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+*
+# Ignore compiled Python files
+*.pyc
+test.py
+
+# Ignore the "venv" folder
+Lib/
+share/
+script/
